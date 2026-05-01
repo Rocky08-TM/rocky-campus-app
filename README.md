@@ -1,5 +1,7 @@
 # Rocky Campus App
 
+Netlify: https://rocky-campus-app.netlify.app/
+
 A Next.js web application built for the Nature of Enterprise Computing CA3 assignment. This is a fictional campus companion portal for Rocky College students.
 
 ## Stack
