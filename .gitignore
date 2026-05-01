@@ -1,0 +1,21 @@
+# Dependencies – installed locally by npm, not needed on GitHub
+/node_modules
+
+# Next.js build output – generated when you run npm run build
+/.next/
+/out/
+
+# Local environment variables – keep secrets off GitHub
+.env
+.env.local
+.env*.local
+
+# OS files
+.DS_Store
+
+# Debug logs
+npm-debug.log*
+
+# TypeScript build info
+*.tsbuildinfo
+next-env.d.ts

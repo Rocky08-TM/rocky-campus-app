@@ -1,0 +1,80 @@
+body {
+  background: #c8d8e8;
+  font-family: Times New Roman, serif;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background: #8B4513;
+  padding: 6px 15px;
+  display: flex;
+  gap: 3px;
+}
+
+.navbar a {
+  color: #FFD700;
+  text-decoration: underline;
+  font-size: 11px;
+  padding: 4px 8px;
+  background: #A0522D;
+}
+
+.navbar a:hover { background: #6B3410; }
+
+.page {
+  padding: 50px 15px 15px 60px;
+}
+
+h1 {
+  font-size: 31px;
+  color: #8B0000;
+  font-family: Georgia, serif;
+  margin-bottom: 3px;
+}
+
+h2 {
+  font-size: 17px;
+  color: #00008B;
+  font-family: Courier New, monospace;
+  margin-bottom: 3px;
+}
+
+p {
+  font-size: 13px;
+  line-height: 1.2;
+  color: #1a1a1a;
+}
+
+button {
+  background: #556B2F;
+  color: #FFD700;
+  border: 2px solid #8B4513;
+  padding: 5px 9px;
+  font-size: 11px;
+  cursor: pointer;
+  font-family: Times New Roman;
+  border-radius: 0px;
+}
+
+button:hover { background: #6B8E23; }
+
+input, textarea, select {
+  border: 2px solid #8B4513;
+  padding: 4px;
+  font-size: 11px;
+  font-family: Courier New;
+  background: #FFFFF0;
+  border-radius: 0;
+  width: 100%;
+}
+
+label {
+  font-size: 11px;
+  font-family: Courier New;
+  color: #333;
+}
+
+table { border-collapse: collapse; width: 95%; margin-top: 10px; }
+td { border: 1px solid #8B4513; padding: 6px 4px; font-size: 11px; font-family: Courier New; }
+th { border: 1px solid #8B4513; padding: 6px 4px; font-size: 13px; background: #8B4513; color: #FFD700; font-family: Georgia; }
