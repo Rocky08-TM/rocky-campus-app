@@ -1,0 +1,9 @@
+[
+  { "id": "u1", "name": "Aoife Brennan", "interests": ["social", "music", "art"], "attendedEventIds": [1, 6] },
+  { "id": "u2", "name": "Ciarán Doyle", "interests": ["coding", "academic", "technology"], "attendedEventIds": [2, 8] },
+  { "id": "u3", "name": "Niamh Walsh", "interests": ["sport", "outdoor", "health"], "attendedEventIds": [3, 7] },
+  { "id": "u4", "name": "Seán Murphy", "interests": ["social", "quiz", "film"], "attendedEventIds": [4, 10] },
+  { "id": "u5", "name": "Caoimhe Kelly", "interests": ["careers", "academic", "professional"], "attendedEventIds": [5, 8] },
+  { "id": "u6", "name": "Darragh Fitzpatrick", "interests": ["social", "charity", "christmas"], "attendedEventIds": [9, 1] },
+  { "id": "u7", "name": "Sinéad O'Brien", "interests": ["wellbeing", "mindfulness", "relaxed"], "attendedEventIds": [7, 10] }
+]
