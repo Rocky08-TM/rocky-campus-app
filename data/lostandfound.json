@@ -1,0 +1,8 @@
+[
+  { "id": 1, "item": "Black North Face Jacket", "description": "Size M, black puffer jacket with a small tear on the left sleeve.", "foundLocation": "Library, 2nd Floor", "dateFound": "2025-09-08", "status": "Unclaimed", "contactRef": "SEC-001" },
+  { "id": 2, "item": "AirPods Pro (White Case)", "description": "White charging case, no name inside. Found near the water fountain.", "foundLocation": "Block A Corridor", "dateFound": "2025-09-10", "status": "Claimed", "contactRef": "SEC-002" },
+  { "id": 3, "item": "Student ID Card", "description": "ID card belonging to a student, name visible at security desk.", "foundLocation": "Main Canteen", "dateFound": "2025-09-11", "status": "Unclaimed", "contactRef": "SEC-003" },
+  { "id": 4, "item": "Blue Casio Calculator", "description": "Casio FX-83GT, sticker on back with initials 'P.O.S.'", "foundLocation": "Block B, Room 204", "dateFound": "2025-09-12", "status": "Unclaimed", "contactRef": "SEC-004" },
+  { "id": 5, "item": "Purple Umbrella", "description": "Compact fold-up umbrella, purple with white dots.", "foundLocation": "Sports Hall Entrance", "dateFound": "2025-09-13", "status": "Unclaimed", "contactRef": "SEC-005" },
+  { "id": 6, "item": "Brown Leather Wallet", "description": "Contains some cards but no cash. Handed to security immediately.", "foundLocation": "Car Park B", "dateFound": "2025-09-14", "status": "Claimed", "contactRef": "SEC-006" }
+]

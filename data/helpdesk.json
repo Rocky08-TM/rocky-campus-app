@@ -1,0 +1,7 @@
+[
+  { "id": 1, "studentName": "Aoife Brennan", "studentId": "C00112233", "category": "IT Support", "subject": "Cannot log into Moodle", "description": "Getting an invalid credentials error every time I try to log in to Moodle. Password reset not working.", "status": "Resolved", "submitted": "2025-09-06", "resolved": "2025-09-07" },
+  { "id": 2, "studentName": "Ciarán Doyle", "studentId": "C00445566", "category": "Accommodation", "subject": "Heating not working in Room 14B", "description": "The radiator in my room has not worked since I arrived. It is very cold at night.", "status": "In Progress", "submitted": "2025-09-09", "resolved": null },
+  { "id": 3, "studentName": "Niamh Walsh", "studentId": "C00778899", "category": "Finance", "subject": "SUSI grant not showing on account", "description": "My SUSI payment was due last week but has not appeared on my student account yet.", "status": "Open", "submitted": "2025-09-11", "resolved": null },
+  { "id": 4, "studentName": "Seán Murphy", "studentId": "C00334455", "category": "IT Support", "subject": "Printing credits missing", "description": "I topped up €5 of printing credits online but they have not been added to my account.", "status": "Resolved", "submitted": "2025-09-08", "resolved": "2025-09-09" },
+  { "id": 5, "studentName": "Caoimhe Kelly", "studentId": "C00667788", "category": "Academic", "subject": "Module clash on timetable", "description": "CA301 and CA305 are scheduled at the same time on Tuesdays. I need one moved.", "status": "In Progress", "submitted": "2025-09-10", "resolved": null }
+]
